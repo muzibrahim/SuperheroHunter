@@ -1,1 +1,1 @@
-# SuperheroHunter
+I've created a web application that allows users to search for superheroes, add them to favorites, view detailed information about them, and manage their favorites. I've utilized HTML for structure, CSS for styling, and JavaScript for interactivity and data handling, along with the Marvel API to fetch superhero data.
